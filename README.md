@@ -23,4 +23,4 @@ pip install -r requirements.txt
 * [Kaggle](https://www.kaggle.com/datasnaek/youtube-new)
 
 ## View This Project
-For the best experience, you can view the Jupyter Notebook on [nbviewer](https://nbviewer.jupyter.org/) [here](https://nbviewer.jupyter.org/github/FooEng/Youtube-US-Video-Stats-Analysis/blob/main/Youtube-US-Video-Statistics-Analysis.ipynb). There are some missing lines (e.g., If you view the notebook on GitHub, there are some missing information from the markdown cells due to issues with rendering of the HTML tags.  
+For the best experience, you can view the Jupyter Notebook on [nbviewer](https://nbviewer.jupyter.org/) [here](https://nbviewer.jupyter.org/github/FooEng/Youtube-US-Video-Stats-Analysis/blob/main/Youtube-US-Video-Statistics-Analysis.ipynb). If you view the notebook on GitHub, there are some missing information from the markdown cells due to issues with rendering of the HTML tags.  
