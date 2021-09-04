@@ -1,5 +1,5 @@
 # Exploring Niches for New Youtube Channel (U.S.) and Predicting Video Views
-In this project, we aim to identify potential niches for a new Youtube channel targeting the U.S. audience. We achieve our goal, we explore the following:
+In this project, we aim to identify potential niches for a new Youtube channel targeting the U.S. audience. To achieve our goal, we explore the following:
 * Popular, favorite, and engaging video categories (measured by views, likes-to-views and comments-to-views)
 * The 5 most popular, favorite, and engaging videos & channels
 * Factors associated with higher video view counts
